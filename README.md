@@ -1,4 +1,4 @@
-# Desafio de Lógica clasificação de herói aprimorando a lógica
+# Desafio de Lógica clasificação de herói aprimorando a técnica de programação
 
 ## Nesse desafio foi utilizado:
    * Variáveis
